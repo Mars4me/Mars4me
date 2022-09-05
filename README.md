@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Vitalii - Front-end developer from Ukraine.
+
 Based in Kyiv.
 
 ### My stack and tools:
