@@ -33,8 +33,8 @@ I'm Vitalii - A passionate front-end developer from Ukraine (Kyiv)
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mars4me&show_icons=true&theme=merko&bg_color=ffffff"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars4me&layout=compact"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mars4me&show_icons=true&theme=merko&bg_color=ffffff"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars4me&layout=compact"></img> -->
 
 
 #### Where to find me:
