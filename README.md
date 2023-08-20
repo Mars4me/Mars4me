@@ -38,6 +38,40 @@ I'm Vitalii - A passionate front-end developer from Ukraine (Kyiv)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mars4me&show_icons=true&theme=merko&bg_color=ffffff"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars4me&layout=compact"></img> -->
 
+### Github projects:
 
-#### Where to find me:
+#### Team builder CS:GO
+[Github repo](https://github.com/Mars4me/team-builder-cs)
+<br>
+[Preview](https://team-builder-cs.vercel.app/)
+#### Server Store- Valheim
+[Github repo](https://github.com/Mars4me/valheim-store)
+<br>
+[Preview](https://mars4me.github.io/valheim-store/#/)
+#### Wordle - Times copy
+[Github repo](https://github.com/Mars4me/wordle-times-copy)
+<br>
+[Preview](https://mars4me.github.io/wordle-times-copy/)
+#### Weather app - PWA
+[Github repo](https://github.com/Mars4me/weather-pwa)
+<br>
+[Preview](https://mars4me.github.io/weather-pwa/)
+#### Steam component
+[Github repo](https://github.com/Mars4me/steam-actual-offers-comp)
+<br>
+[Preview](https://mars4me.github.io/steam-actual-offers-comp/)
+#### Movies list - planetscale + firebase auth
+[Github repo](https://github.com/Mars4me/movie-db-planetscale)
+<br>
+[Preview](under development)
+#### Test - task ***
+[Github repo](https://github.com/Mars4me/test-task-proxyband)
+<br>
+[Preview](https://mars4me.github.io/test-task-proxyband/)
+
+
+
+
+
+### Where to find me:
 [linkedin](https://www.linkedin.com/in/mars4me/)
