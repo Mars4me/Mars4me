@@ -56,18 +56,7 @@ I'm Vitalii - A passionate front-end developer from Ukraine (Kyiv)
 [Github repo](https://github.com/Mars4me/weather-pwa)
 <br>
 [Preview](https://mars4me.github.io/weather-pwa/)
-#### Steam component
-[Github repo](https://github.com/Mars4me/steam-actual-offers-comp)
-<br>
-[Preview](https://mars4me.github.io/steam-actual-offers-comp/)
-#### Movies list - planetscale + firebase auth
-[Github repo](https://github.com/Mars4me/movie-db-planetscale)
-<br>
-[Preview](under development)
-#### Test - task ***
-[Github repo](https://github.com/Mars4me/test-task-proxyband)
-<br>
-[Preview](https://mars4me.github.io/test-task-proxyband/)
+
 
 
 
